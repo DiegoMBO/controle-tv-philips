@@ -1,0 +1,13 @@
+# Baixado automaticamente pelo setup.ps1 - nao versionar binarios grandes
+platform-tools/
+platform-tools.zip
+
+# IP pessoal da TV de cada usuario - nunca versionar
+tv-ip.txt
+
+# Logs e arquivos de debug locais
+logs/
+*.log
+
+# Arquivos temporarios do Windows/PowerShell
+*.zip
