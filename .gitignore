@@ -1,13 +1,11 @@
-# Baixado automaticamente pelo setup.ps1 - nao versionar binarios grandes
-platform-tools/
-platform-tools.zip
+# Certificado de pareamento, chave privada e IP da TV - sao especificos de
+# cada notebook/TV e NUNCA devem ser compartilhados ou versionados.
+config/
 
-# IP pessoal da TV de cada usuario - nunca versionar
-tv-ip.txt
+# Python
+__pycache__/
+*.pyc
 
 # Logs e arquivos de debug locais
 logs/
 *.log
-
-# Arquivos temporarios do Windows/PowerShell
-*.zip
